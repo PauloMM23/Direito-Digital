@@ -1,5 +1,9 @@
 # palavras e/ou expressões discutidas e aprendidas em aula.
-
+- Compliance
+- Royalties
+- jurisprudência
+- Sancionada
+  
 # O que é Direito Digital?
 É um ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos.
 
