@@ -1,1 +1,1 @@
- #palavras e/ou expressões discutidas e aprendidas em aula.
+palavras e/ou expressões discutidas e aprendidas em aula.
