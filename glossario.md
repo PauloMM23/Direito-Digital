@@ -46,8 +46,8 @@ A criação de normas e regulamentos que protegem juridicamente essas informaç�
   Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
 
 # Lei, Regulamentação e Norma
-- Lei:
+- Lei: Lei é uma regulamentação legal de determinado assunto que necessita de todo o processo legislativo para ser aprovada e tem imposição legal em todo o território
 
-- Regulamentação:
+- Regulamentação: Regulamentação é a imposição de regras para determinada atividade e norma geralmente é algo infralegal que é disposto pelas agências reguladoras podem por vezes ter força de lei.
 
-- Norma:
+- Norma: A norma é um acessório para aquilo que não está regulamentado.
