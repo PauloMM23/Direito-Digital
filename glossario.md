@@ -3,7 +3,8 @@
 - Royalties
 - jurisprudência
 - Sancionada
-  
+
+# Aula 08/08  
 # O que é Direito Digital?
 É um ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos.
 
@@ -51,3 +52,5 @@ A criação de normas e regulamentos que protegem juridicamente essas informaç�
 - Regulamentação: Regulamentação é a imposição de regras para determinada atividade e norma geralmente é algo infralegal que é disposto pelas agências reguladoras podem por vezes ter força de lei.
 
 - Norma: A norma é um acessório para aquilo que não está regulamentado.
+
+# Aula 22/08
