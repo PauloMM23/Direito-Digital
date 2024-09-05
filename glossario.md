@@ -74,3 +74,51 @@ A criação de normas e regulamentos que protegem juridicamente essas informaç�
 - **Direito de igualdade:** Assegura que todas as pessoas tenham o mesmo tratamento perante a lei, sem discriminação com base em raça, sexo, religião, orientação sexual, ou outras características pessoais.
   
 - **Direito à segurança:** Refere-se ao direito de viver em segurança, protegido contra ameaças à vida, integridade física e patrimonial, tanto por ações de indivíduos quanto do Estado.
+
+# Aula 05/09
+
+# **Compliance** #
+- ## O que é? ##
+  O compliance envolve um conjunto de práticas para que a empresa esteja em conformidade com a legislação do país ou região, as políticas da empresa e seus parceiros, com a moral, normas de trabalho e outros tipos de regras. Seus objetivos são maximizar a segurança do negócio, melhorar o relacionamento perante outras organizações e evitar problemas legais.
+
+- ## **Aplicação do Compliance na área da TI** ##
+    ### Segurança de Dados ###
+    - Criptografia de dados
+    - Controle de acesso
+    - Políticas de privacidade
+    - Relatórios de incidentes de segurança
+
+    ### Conformidade com Padrões de Indústria ###
+    - ISO 27001: Um padrão internacional de segurança da informação que exige controles rigorosos para proteger a confidencialidade, integridade e disponibilidade de dados.
+    - PCI DSS: Padrões de segurança para a proteção de informações de cartões de crédito.
+      
+    ### Governança de TI ###
+    Implementação de frameworks como COBIT (Control Objectives for Information and Related Technologies), que ajudam a alinhar as operações de TI com os objetivos de negócios e conformidade regulatória.
+
+    ### Compliance em Cloud Computing ###
+    - As empresas que utilizam soluções em nuvem precisam garantir que seus provedores de serviços de nuvem estejam em conformidade com regulamentos de segurança e privacidade.
+    - Verificação de que os dados armazenados em serviços de nuvem estejam em conformidade com as jurisdições aplicáveis.
+ 
+    ### Gerenciamento de Identidade e Acesso (IAM) ###
+    Implementação de controles rígidos sobre quem pode acessar quais recursos dentro dos sistemas de TI, garantindo que somente usuários autorizados possam realizar determinadas ações.
+  
+- ## **Papel do Profissional de TI** ##
+   É responsável por garantir que as tecnologias e sistemas da organização estejam em conformidade com regulamentos, normas e boas práticas de segurança, privacidade e governança.
+
+  - Implementação de Políticas de Segurança:
+    O profissional de TI precisa implementar medidas de segurança, como criptografia, firewalls, controle de acesso e autenticação, garantindo que os dados estejam protegidos de acessos não autorizados e ameaças cibernéticas.
+    
+  - Monitoramento e Auditoria:
+    Monitorar os sistemas e redes em busca de atividades suspeitas ou violações de segurança.
+    
+  - Gestão de Riscos:
+    Realizar avaliações regulares de riscos, identificando vulnerabilidades nos sistemas e desenvolvendo estratégias para mitigá-las.
+    
+  - Conformidade com Regulações de Proteção de Dados:
+    Assegurar que a organização cumpra as regulamentações de privacidade de dados, como GDPR, LGPD, e outras, implementando mecanismos para garantir o direito dos usuários à privacidade e ao controle sobre seus dados.
+    
+  - Desenvolvimento e Aplicação de Procedimentos de Backup e Recuperação:
+    Implementar e supervisionar políticas de backup, garantindo que todos os dados críticos possam ser restaurados em caso de falha ou desastre.
+    
+  - Conscientização e Treinamento:
+    Participar ativamente no desenvolvimento de treinamentos sobre segurança cibernética e compliance para outros funcionários, promovendo a conscientização sobre as ameaças e a importância de seguir as políticas de segurança.
