@@ -77,7 +77,7 @@ A criação de normas e regulamentos que protegem juridicamente essas informaç�
 
 # Aula 05/09
 
-# **Compliance** #
+# **Compliance - Conformidade** #
 - ## O que é? ##
   O compliance envolve um conjunto de práticas para que a empresa esteja em conformidade com a legislação do país ou região, as políticas da empresa e seus parceiros, com a moral, normas de trabalho e outros tipos de regras. Seus objetivos são maximizar a segurança do negócio, melhorar o relacionamento perante outras organizações e evitar problemas legais.
 
