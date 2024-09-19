@@ -122,3 +122,23 @@ A criação de normas e regulamentos que protegem juridicamente essas informaç�
     
   - Conscientização e Treinamento:
     Participar ativamente no desenvolvimento de treinamentos sobre segurança cibernética e compliance para outros funcionários, promovendo a conscientização sobre as ameaças e a importância de seguir as políticas de segurança.
+
+# Aula 19/09 #
+
+# **Conflitos - Direito Digital** #
+Conflitos surgem frequentemente devido à rápida evolução tecnológica, à interconectividade global e às implicações legais ainda pouco definidas. Questões como privacidade, proteção de dados, crimes cibernéticos, e-commerce e a responsabilidade por conteúdo online são apenas alguns dos temas que geram disputas.
+  - ### **Liberdade de Expressão vs Moderação de Conteúdo** ###
+      Plataformas digitais enfrentam a necessidade de equilibrar a liberdade de expressão com a remoção de conteúdo prejudicial, como discurso de ódio, fake news ou difamação. A responsabilidade dessas plataformas pode gerar debates sobre censura ou negligência na moderação.
+  - ### **Cibercrimes** ###
+      Com o aumento dos ataques cibernéticos, como hacking, phishing e ransomware, há uma necessidade crescente de regulamentações que permitam combater e punir criminosos no ambiente digital. A jurisdição internacional é um grande desafio, dado que os crimes podem ser cometidos em um país, mas impactar vítimas globalmente.
+  - ### **Propriedade Intelectual** ###
+      No mundo digital, questões relacionadas à pirataria, uso indevido de conteúdo protegido por direitos autorais e a violação de patentes são comuns, especialmente com a facilidade de distribuição de conteúdo.
+    
+ # **Autorregulamentação** #
+  Refere-se a um modelo onde as próprias empresas ou setores criam e aplicam normas de conduta sem a intervenção direta do governo.
+   - ### **Termos de Serviço e Políticas de Privacidade** ###
+     Plataformas online costumam criar suas próprias regras de uso e proteção de dados através de termos de serviço. Elas se autorregulam ao estabelecer diretrizes sobre o que é permitido, quais dados serão coletados e como os usuários podem interagir entre si.
+   - ### **Códigos de Conduta** ###
+     Empresas e associações de tecnologia criam códigos de conduta que definem padrões éticos, por exemplo, para o uso da inteligência artificial ou práticas de segurança cibernética.
+   - ### **Moderadores de Conteúdo** ###
+     Redes sociais, como Facebook, YouTube e Twitter, utilizam algoritmos e revisores humanos para moderar o conteúdo postado pelos usuários. Esse é um exemplo de autorregulamentação em resposta a preocupações com discurso de ódio, violência ou desinformação.
