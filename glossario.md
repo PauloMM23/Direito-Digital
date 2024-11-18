@@ -142,3 +142,18 @@ Conflitos surgem frequentemente devido à rápida evolução tecnológica, à in
      Empresas e associações de tecnologia criam códigos de conduta que definem padrões éticos, por exemplo, para o uso da inteligência artificial ou práticas de segurança cibernética.
    - ### **Moderadores de Conteúdo** ###
      Redes sociais, como Facebook, YouTube e Twitter, utilizam algoritmos e revisores humanos para moderar o conteúdo postado pelos usuários. Esse é um exemplo de autorregulamentação em resposta a preocupações com discurso de ódio, violência ou desinformação.
+
+# Aula 14/11 #
+
+ - ## O que é e para que serve uma licença de software? ##
+    O licenciamento de software funciona como um tipo de contrato estabelecido entre o fabricante (desenvolvedor) e a pessoa ou empresa que o usará. O objetivo da licença é proteger o proprietário com direitos autorais (copyright). Mas também garantir ao usuário que todas as funcionalidades e serviços estejam sempre disponíveis e de acordo com o que foi contratado. 
+ - ## O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto? ##
+   - **Software Proprietário:** Software com licença restrita, onde o código-fonte não pode ser alterado ou distribuído sem permissão.
+   - **Software de Domínio Público:** Software sem direitos autorais, livre para usar, modificar e distribuir.
+   - **Adware:** Software gratuito que exibe anúncios ou coleta dados para veicular propagandas.
+   - **Freeware:**   Software gratuito para uso, mas sem permissão para modificar ou redistribuir o código-fonte.
+   - **Shareware:** Software disponível para teste gratuito por um tempo limitado, após o qual é necessário pagar pela licença.
+   - **Software de Código Aberto:** Software com código-fonte acessível, permitindo modificações e redistribuições livremente.
+ - ## O que é GNU General Public License? ##
+ - ## O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft ##
+ - ## Identifique as principais licenças quando um repositório é criado no GitHub ##
